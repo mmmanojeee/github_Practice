@@ -1,2 +1,5 @@
 manoj
 banana
+apple
+avacado
+orange
