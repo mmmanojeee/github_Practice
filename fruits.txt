@@ -3,3 +3,6 @@ banana
 apple
 avacado
 orange
+Vegitables
+potato
+tomata
