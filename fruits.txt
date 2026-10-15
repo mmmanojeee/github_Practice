@@ -5,3 +5,5 @@ grapes
 pipaple
 dragon fruite
 kiwwi
+avakado
+water milon
